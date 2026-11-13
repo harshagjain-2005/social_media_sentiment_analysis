@@ -1,0 +1,36 @@
+{
+  "mode": "Local Python Simulation",
+  "overall_sentiment": {
+    "Positive": 445,
+    "Negative": 142,
+    "Neutral": 84
+  },
+  "topic_sentiment": {
+    "Artificial Intelligence::Positive": 98,
+    "Smartphones::Negative": 26,
+    "Electric Vehicles::Negative": 25,
+    "Gaming::Neutral": 24,
+    "Streaming Movies::Negative": 36,
+    "Customer Service::Neutral": 9,
+    "Smartphones::Positive": 74,
+    "Electric Vehicles::Positive": 61,
+    "Gaming::Positive": 67,
+    "Customer Service::Negative": 25,
+    "Streaming Movies::Neutral": 8,
+    "Customer Service::Positive": 77,
+    "Artificial Intelligence::Negative": 9,
+    "Electric Vehicles::Neutral": 26,
+    "Smartphones::Neutral": 12,
+    "Gaming::Negative": 21,
+    "Streaming Movies::Positive": 68,
+    "Artificial Intelligence::Neutral": 5
+  },
+  "topic_avg_compound": {
+    "Artificial Intelligence": 0.5487,
+    "Smartphones": 0.2836,
+    "Electric Vehicles": 0.1967,
+    "Gaming": 0.2274,
+    "Streaming Movies": 0.1503,
+    "Customer Service": 0.2633
+  }
+}
